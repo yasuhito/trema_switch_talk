@@ -485,8 +485,9 @@
 ![we_want_you](we_want_you2.png)
 
 !SLIDE transition=fade
+# 募集
 * スイッチを書いてみたい人
-* テストが好きな人
+* Trema 本の謝辞に載りたい人
 
 !SLIDE transition=fade
 # Trema コミッタになろう!
