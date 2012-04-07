@@ -5,9 +5,6 @@
 # 高宮 安仁
 
 !SLIDE center transition=fade
-![](nec.png)
-
-!SLIDE center transition=fade
 ![](emacs.png)
 
 !SLIDE center transition=fade
