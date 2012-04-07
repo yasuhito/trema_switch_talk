@@ -5,6 +5,9 @@
 # 高宮 安仁
 
 !SLIDE center transition=fade
+![](nec.png)
+
+!SLIDE center transition=fade
 ![](emacs.png)
 
 !SLIDE center transition=fade
@@ -17,12 +20,19 @@
 ![](yutaro.png)
 
 !SLIDE center transition=fade
+![](shimane.png)
+
+!SLIDE center transition=fade
+![](oki.png)
+
+!SLIDE center transition=fade
 # @yasuhito
 
 !SLIDE center transition=fade
 ![](yasuhito_twitter.png)
 
 !SLIDE center transition=fade
+# @yasuhito
 # 宮坂 部長
 
 !SLIDE center transition=fade
@@ -38,13 +48,28 @@
 ![](trema.png)
 
 !SLIDE center transition=fade
+![](brake.png)
+
+!SLIDE center transition=fade
+![](t.png)
+
+!SLIDE center transition=fade
+![](trema_yellow.png)
+
+!SLIDE center transition=fade
+![](tomato.png)
+
+!SLIDE center transition=fade
+![](uemare.png)
+
+!SLIDE center transition=fade
 ![](openflow.png)
 
 !SLIDE center transition=fade
 ![](leader_followers.png)
 
 !SLIDE center transition=fade
-# (自称)
+# 自称
 
 !SLIDE center transition=fade
 # 自称 Trema リーダー
@@ -71,10 +96,16 @@
 ![](release.png)
 
 !SLIDE center transition=fade
+# リリースエンジニアリング
+
+!SLIDE center transition=fade
 ![](ship.png)
 
 !SLIDE center transition=fade
 ![](tambarine.png)
+
+!SLIDE center transition=fade
+## 他の Trema メンバーを応援
 
 !SLIDE center transition=fade
 ![](ouen.png)
@@ -167,6 +198,9 @@
 
 !SLIDE center transition=fade
 ![](switch.png)
+
+!SLIDE center transition=fade
+![](haisen.png)
 
 !SLIDE center transition=fade
 ![](clock.png)
