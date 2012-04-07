@@ -275,11 +275,11 @@
 # 
 
 !SLIDE center transition=fade
-# もっと簡単な話
+# 例: もっと簡単な話
 
 !SLIDE center transition=fade
 ![](network_mess.png)
-# トポロジ検知
+# トポロジの検知
 
 !SLIDE smaller transition=fade
 
